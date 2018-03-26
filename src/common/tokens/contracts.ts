@@ -734,7 +734,7 @@ export const contracts = {
     "0xd8912c10681d8b21fd3742244f44658dba12264e": {
         id: "pluton"
     },
-    "0x9af839687f6c94542ac5ece2e317daae355493a1": {
+    "0xebbdf302c940c6bfd49c6b165f457fdb324649bc": {
         id: "hydro-protocol"
     },
     "0xeb7c20027172e5d143fb030d50f91cece2d1485d": {
