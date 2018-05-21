@@ -1609,5 +1609,8 @@ export const contracts = {
     },
     "0x6758b7d441a9739b98552b373703d8d3d14f9e62": {
         id: "poa-network"
+    },
+    "0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb": {
+        id: "erc20"
     }
 }
